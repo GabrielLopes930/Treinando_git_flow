@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo '<div class="message error"><h1>Acesso Inválido</h1><p>Por favor, preencha o formulário primeiro.</p>';
 }
 ?>
-    <a href="index.html">Voltar ao Formulário</a>
+    <a href="cadastro.html">Voltar ao Formulário</a>
 </div>
 
 </body>
